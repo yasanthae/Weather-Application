@@ -1,4 +1,4 @@
-# Weather Application
+# Weather Application - Practical Examination (E2145098)
 
 ## Project Overview
 This is an Android application designed to fetch and display weather details based on the user's input of a city name and an optional country code. The application utilizes a simple and clean user interface, providing a seamless experience for users to get real-time weather information.
@@ -69,3 +69,6 @@ This is an Android application designed to fetch and display weather details bas
 
 ## Conclusion
 This Weather Application provides a basic yet functional solution for users to fetch and view weather details. With its clean interface and straightforward functionality, it serves as a solid foundation for further enhancements and features. Follow the setup instructions carefully to get the app up and running on your device.
+
+E M D Y B Ekanayake
+E2145098 
